@@ -1,0 +1,29 @@
+{
+  "maps": [
+    {
+      "name": "Kawaii Pink House",
+      "image": "https://raw.githubusercontent.com/username/elisjaenudin/main/preview1.jpg",
+      "file": "https://raw.githubusercontent.com/username/elisjaenudin/main/map1.zip"
+    },
+    {
+      "name": "Sky Survival Island",
+      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
+      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+    },
+	{
+      "name": "Sky Survival Island",
+      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
+      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+    },
+	{
+      "name": "Sky Survival Island",
+      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
+      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+    },
+	{
+      "name": "Sky Survival Island",
+      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
+      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+    }
+  ]
+}
