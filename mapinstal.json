@@ -2,28 +2,28 @@
   "maps": [
     {
       "name": "Kawaii Pink House",
-      "image": "https://raw.githubusercontent.com/username/elisjaenudin/main/preview1.jpg",
-      "file": "https://raw.githubusercontent.com/username/elisjaenudin/main/map1.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview1.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map1.zip"
     },
     {
-      "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
-      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+      "name": "One Block Survival",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map2.zip"
     },
 	{
       "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
-      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map3.zip"
     },
 	{
       "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
-      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview4.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map4.zip"
     },
 	{
       "name": "Sky Survival Island",
-      "image": "https://raw.githubusercontent.com/username/mapsrepo/main/preview2.jpg",
-      "file": "https://raw.githubusercontent.com/username/mapsrepo/main/map2.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/preview5.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/jagong/main/map5.zip"
     }
   ]
 }
